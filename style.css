@@ -9,9 +9,7 @@
 #featured{
     color:rgb(223, 50, 7);
 }
-.TUTTO{
-    width: 50%;
-    float: left;
-    display:flex
-    flex-end:contents
-}
+.bordo{
+padding-left: 100px;
+text-align: left;
+ }
