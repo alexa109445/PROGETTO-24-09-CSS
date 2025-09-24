@@ -1,1 +1,17 @@
-/* FOGLIO */
+
+#titolo-iniziale {
+    color:rgb(97, 97, 206);
+}
+#image-selly{
+  
+    color:rgb(167, 163, 163);
+}
+#featured{
+    color:rgb(223, 50, 7);
+}
+.TUTTO{
+    width: 50%;
+    float: left;
+    display:flex
+    flex-end:contents
+}
